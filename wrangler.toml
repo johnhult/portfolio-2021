@@ -1,0 +1,9 @@
+name = "portfolio-2021"
+type = 'webpack'
+account_id = '1464b833de05e41ebbc3c1a4f9f7af64'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+site = {bucket = "./build",entry-point = "workers-site"}
